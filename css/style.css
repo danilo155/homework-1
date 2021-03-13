@@ -1,0 +1,10 @@
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
