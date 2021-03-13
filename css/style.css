@@ -1,5 +1,4 @@
 header {
-  background: #7c8082;
   padding-bottom: 35px;
   padding-top: 50px;
 }
@@ -12,4 +11,7 @@ header a {
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
+}
+body div {
+  display: block;
 }
