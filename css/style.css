@@ -20,6 +20,7 @@ header a {
 }
 .small_text {
   color: #c8c3b8;
+  text-transform: uppercase;
 }
 .img-inner {
   display: flex;
