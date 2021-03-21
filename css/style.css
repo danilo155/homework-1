@@ -20,7 +20,6 @@ header a {
 }
 .small_text {
   color: #c8c3b8;
-  text-transform: uppercase;
 }
 .img-inner {
   display: flex;
@@ -29,16 +28,7 @@ header a {
 .img {
   padding: 30px 15px;
 }
-main,
-header ul {
-  width: 800px;
-  margin: auto;
-}
 input[type="button"] {
-  text-transform: uppercase;
   padding: 5px 10px;
-}
-.img-inner img:hover {
-  transform: scale(1.2);
-  transition: 0.5s;
+  text-transform: uppercase;
 }
