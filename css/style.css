@@ -18,22 +18,26 @@ header a {
   text-decoration: none;
   text-transform: uppercase;
 }
-body div {
-  display: block;
-}
-button {
-  margin-top: 40px;
-  margin-bottom: 30px;
-  margin: left 20px;
-  margin-right: 40px;
-  padding-bottom: 36px;
-  padding-top: 23px;
-  margin-left: 508px;
-  width: 164px;
-}
-img {
-  display: block;
-}
-.small_text{
+.small_text {
   color: #c8c3b8;
+}
+.img-inner {
+  display: flex;
+  padding: 15px 10px;
+}
+.img {
+  padding: 30px 15px;
+}
+main,
+header ul {
+  width: 800px;
+  margin: auto;
+}
+input[type="button"] {
+  text-transform: uppercase;
+  padding: 5px 10px;
+}
+.img-inner img:hover {
+  transform: scale(1.2);
+  transition: 0.5s;
 }
