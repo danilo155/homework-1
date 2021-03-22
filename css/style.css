@@ -1,5 +1,7 @@
 * {
   margin: 0;
+  box-sizing: border-box;
+  border: 10px solid #212121;
 }
 header {
   padding-bottom: 35px;
@@ -26,7 +28,6 @@ header a {
   padding: 15px 10px;
 }
 .img {
-  display: flex;
   padding: 30px 15px;
 }
 input[type="button"] {
@@ -45,9 +46,13 @@ input[type="button"] {
   display: flex;
 }
 main {
-  width: 800px;
+  width: 1054px;
   margin: 0 auto;
 }
-div {
+article {
   width: 50%;
+  margin-right: 1000px;
+}
+article img {
+  width: 100%;
 }
