@@ -32,3 +32,17 @@ input[type="button"] {
   padding: 5px 10px;
   text-transform: uppercase;
 }
+.img-inner img {
+  transition: 0.5s;
+}
+.img-inner img:hover {
+  transform: scale(1.5);
+  transition: 0.5s;
+}
+.img-inner {
+  display: flex;
+}
+main {
+  width: 800px;
+  margin: 0 auto;
+}
