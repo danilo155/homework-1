@@ -35,14 +35,19 @@ input[type="button"] {
 }
 .img-inner img {
   transition: 0.5s;
+  padding-right: 40px;
 }
 .img-inner img:hover {
   transform: scale(1.5);
   transition: 0.5s;
 }
 .img-inner {
-  padding: 4px;
+  display: flex;
 }
 main {
+  width: 800px;
   margin: 0 auto;
+}
+div {
+  width: 50%;
 }
