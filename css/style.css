@@ -26,6 +26,7 @@ header a {
   padding: 15px 10px;
 }
 .img {
+  display: flex;
   padding: 30px 15px;
 }
 input[type="button"] {
@@ -40,9 +41,8 @@ input[type="button"] {
   transition: 0.5s;
 }
 .img-inner {
-  display: flex;
+  padding: 4px;
 }
 main {
-  width: 800px;
   margin: 0 auto;
 }
