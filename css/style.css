@@ -38,7 +38,7 @@ input[type="button"] {
   padding-right: 40px;
 }
 .img-inner img:hover {
-  transform: scale(2);
+  transform: scale(1.5);
   transition: 0.5s;
 }
 .img-inner {
@@ -48,15 +48,10 @@ main {
   width: 1054px;
   margin: 0 auto;
 }
-article {
-  width: 50%;
-}
-article img {
-  width: 100%;
-}
+
 main,
 header ul {
-  width: 800px;
+  width: 1024px;
   margin: auto;
 }
 header a:hover {
@@ -73,7 +68,11 @@ button:hover {
 }
 button {
   transition: 0.5s;
+  text-align: center;
 }
-article div {
-  margin-right: ;
+article {
+  width: 50%;
+  float: left;
+  padding: 0 31px;
+  margin: 65 0;
 }
