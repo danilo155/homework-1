@@ -59,9 +59,5 @@ article {
   width: 50%;
   float: left;
   padding: 0 31px;
-  margin: 65 0;
-}
-main {
-  width: 1024px;
-  max-width: 100%;
+  margin: 65px 0;
 }
