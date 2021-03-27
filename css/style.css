@@ -41,8 +41,7 @@ header ul {
   margin: auto;
 }
 header a:hover {
-  color: blue;
-  background-color: #626262;
+  color: #626262;
   transition: 0.5s;
 }
 header a {
