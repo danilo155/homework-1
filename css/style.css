@@ -30,15 +30,6 @@ input[type="button"] {
   padding: 5px 10px;
   text-transform: uppercase;
 }
-.img-inner img {
-  transition: 0.5s;
-  padding-right: 40px;
-}
-.img-inner img:hover {
-  transform: scale(1.5);
-  transition: 0.5s;
-}
-
 main {
   width: 1054px;
   margin: 0 auto;
