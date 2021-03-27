@@ -22,10 +22,7 @@ header a {
 .small_text {
   color: #c8c3b8;
 }
-.img-inner {
-  display: flex;
-  padding: 15px 10px;
-}
+
 .img {
   padding: 30px 15px;
 }
@@ -41,9 +38,7 @@ input[type="button"] {
   transform: scale(1.5);
   transition: 0.5s;
 }
-.img-inner {
-  display: flex;
-}
+
 main {
   width: 1054px;
   margin: 0 auto;
@@ -75,4 +70,8 @@ article {
   float: left;
   padding: 0 31px;
   margin: 65 0;
+}
+main {
+  width: 1024px;
+  max-width: 100%;
 }
