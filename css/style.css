@@ -61,3 +61,6 @@ article {
   padding: 0 31px;
   margin: 65px 0;
 }
+article img {
+  width: 100%;
+}
