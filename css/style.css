@@ -64,3 +64,6 @@ article {
 article img {
   width: 100%;
 }
+.cleaner {
+  clear: both;
+}
