@@ -66,4 +66,7 @@ article img {
 .img-inner {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+}
+.small_text {
 }
