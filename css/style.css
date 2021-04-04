@@ -59,6 +59,7 @@ article {
 }
 article img {
   width: 100%;
+  background-attachment: fixed;
 }
 .img-inner {
   display: flex;
@@ -87,4 +88,5 @@ button {
   height: 60px;
   background: transparent;
   border: 2px solid #333;
+  text-transform: uppercase;
 }
